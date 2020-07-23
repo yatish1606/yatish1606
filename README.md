@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on a diabetes consultation project in React Native
+- 🔭 I’m currently working on a Diabetes consultation project in React Native
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on JavaScript and Node
 - 📫 How to reach me: * stalker vibes *
