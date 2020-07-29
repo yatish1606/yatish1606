@@ -7,4 +7,4 @@
 
 [![Yatish's Github Stats](https://github-readme-stats.vercel.app/api?username=yatish1606&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatish1606)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatish1606&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
