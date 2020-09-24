@@ -1,7 +1,8 @@
 - 🔭 Currently interning as Software Product Designer at FortyTwoLabs
-- 🔭 Currently in my third year of Engineering ( IT ) at PVG COET
+- 🔭 Currently in my third year of Engineering ( IT ) at PVG's COET
 - 🔭 Designed and developed a Diabetes consultation application in React Native which uses ML models to help patients assess, analyse and control Diabetes
 - 🌱 I’m currently learning Advanced React, Redux and Framer Motion
+- 🌱 Experienced in Javascript, Node.js Product Design and User Experience, and React Native
 - 📫 How to reach me: send a mail ( yatish1606@gmail.com )
  
 
