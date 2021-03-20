@@ -12,3 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatish1606&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=yatish1606&color=brightgreen)
