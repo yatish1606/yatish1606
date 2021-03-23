@@ -4,6 +4,7 @@
 - Designed and developed a Diabetes consultation application in React Native which uses ML models to help patients assess, analyse and control Diabetes ( @Mavoix )
 - Interned at @FortyTwoLabs as a product designer
 - Experienced with React, C++, Node, Design, ReactNative and UX
+- LearnSpace : an online interactive classroom, check it out at http://dbms-front.herokuapp.com/registerlogin
 - How to reach me: send a mail ( yatish1606@gmail.com )
 - Designed and developed : https://itsa-pvg.github.io/website2021/
 - Designed and developed : https://dscpvgcoet.github.io/
