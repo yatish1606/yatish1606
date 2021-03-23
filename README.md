@@ -1,10 +1,12 @@
-- 🔭 Currently interning as a Software Product Designer at FortyTwoLabs 
-- 🔭 UI/UX Expert at Google's Developer Student Clubs PVG's COET
-- 🔭 Currently in my third year of Engineering ( IT ) at PVG's COET
-- 🔭 Designed and developed a Diabetes consultation application in React Native which uses ML models to help patients assess, analyse and control Diabetes
-- 🌱 I’m currently learning Advanced React, Redux and Framer Motion
-- 🌱 Experienced in Javascript and its frameworks, Node.js, Product Design and User Experience, and React Native
-- 📫 How to reach me: send a mail ( yatish1606@gmail.com )
+
+- UI/UX Expert at Google's Developer Student Clubs PVG's COET
+- Currently in my third year of Engineering ( IT ) at PVG's COET
+- Designed and developed a Diabetes consultation application in React Native which uses ML models to help patients assess, analyse and control Diabetes ( @Mavoix )
+- Interned at @FortyTwoLabs as a product designer
+- Experienced with React, C++, Node, Design, ReactNative and UX
+- How to reach me: send a mail ( yatish1606@gmail.com )
+- Designed and developed : https://itsa-pvg.github.io/website2021/
+- Designed and developed : https://dscpvgcoet.github.io/
  
 
 [![Yatish's Github Stats](https://github-readme-stats.vercel.app/api?username=yatish1606&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
