@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatish1606&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606&custom_title=Weekly Coding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=yatish1606&color=brightgreen)
