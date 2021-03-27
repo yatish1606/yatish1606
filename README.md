@@ -16,4 +16,4 @@
  
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=yatish1606&color=#202020)
+![](https://komarev.com/ghpvc/?username=yatish1606&color=202020)
