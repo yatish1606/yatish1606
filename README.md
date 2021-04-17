@@ -8,6 +8,7 @@
 - How to reach me: send a mail ( yatish1606@gmail.com )
 - Designed and developed : https://itsa-pvg.github.io/website2021/
 - Designed and developed : https://dscpvgcoet.github.io/
+- Find out more about my projects at https://yatishkelkar.netlify.app/
  
 
 [![Yatish's Github Stats](https://github-readme-stats.vercel.app/api?username=yatish1606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
