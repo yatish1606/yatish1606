@@ -18,3 +18,5 @@
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yatish1606&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=yatish1606&color=202020&label=Profile+Views)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
