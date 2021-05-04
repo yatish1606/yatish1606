@@ -1,12 +1,12 @@
 
-- UI/UX Expert at Google's Developer Student Clubs PVG's COET
-- Currently in my third year of Engineering ( IT ) at PVG's COET
+- UI-UX Expert at Google's Developer Student Clubs PVG's COET
+- Currently in my third year of Engineering (IT)
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
-- Experienced with React, C++, Node, Design, ReactNative, and UX
-- Currently learning Typescript 
+- Experienced with React, C++, Node.js, Product design, ReactNative, and UX
+- Currently learning Typescript 🚀
 - [LearnSpace](http://dbms-front.herokuapp.com/registerlogin) : an online interactive classroom
-- How to reach me: send a mail ( yatish1606@gmail.com )
+- How to reach me: write a [mail](mailto:yatish1606@gmail.com)
 - Designed and developed : https://itsa-pvg.github.io/website2021/
 - Designed and developed : https://dscpvgcoet.github.io/
 - Find out more about my projects at https://yatishkelkar.netlify.app/
