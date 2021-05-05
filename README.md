@@ -10,7 +10,7 @@
 - Designed and developed : https://itsa-pvg.github.io/website2021/
 - Designed and developed : https://dscpvgcoet.github.io/
 - Find out more about my projects at https://yatishkelkar.netlify.app/
-- Check out [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
+- Authored [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
