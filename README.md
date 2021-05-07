@@ -7,7 +7,7 @@
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
 - Currently learning Typescript 🚀
 - [LearnSpace](http://dbms-front.herokuapp.com/registerlogin) : an online interactive classroom
-- How to reach me: write a [mail](mailto:yatish1606@gmail.com)
+- Contact me by [mail](mailto:yatish1606@gmail.com)
 - Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
 - Designed and developed [DSC PVGCOET Portal](https://dscpvgcoet.github.io/)
 - Find out more about me and my projects [here](https://yatishkelkar.netlify.app/)
