@@ -1,15 +1,16 @@
+### Hey 👋🏽
 
+- Currently in my Third Year of Engineering (IT)
 - UI-UX Expert at Google's Developer Student Clubs PVG's COET
-- Currently in my third year of Engineering (IT)
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
 - Currently learning Typescript 🚀
 - [LearnSpace](http://dbms-front.herokuapp.com/registerlogin) : an online interactive classroom
 - How to reach me: write a [mail](mailto:yatish1606@gmail.com)
-- Designed and developed : https://itsa-pvg.github.io/website2021/
-- Designed and developed : https://dscpvgcoet.github.io/
-- Find out more about my projects at https://yatishkelkar.netlify.app/
+- Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
+- Designed and developed [DSC PVGCOET Portal](https://dscpvgcoet.github.io/)
+- Find out more about me and my projects [here](https://yatishkelkar.netlify.app/)
 - Authored [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
