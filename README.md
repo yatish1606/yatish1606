@@ -11,7 +11,7 @@
 - Contact me by [mail](mailto:yatish1606@gmail.com)
 - Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
 - Designed and developed [DSC PVGCOET Portal](https://dscpvgcoet.github.io/)
-- Authored [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
+- Authored and created [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
