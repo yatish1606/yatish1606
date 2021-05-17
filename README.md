@@ -6,7 +6,7 @@
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
-- Currently learning Typescript 🚀
+- Currently learning Angular and Typescript 🚀
 - Co-developed [LearnSpace](http://dbms-front.herokuapp.com/registerlogin), an online interactive classroom
 - Contact me by [mail](mailto:yatish1606@gmail.com)
 - Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
