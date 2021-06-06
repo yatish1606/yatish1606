@@ -12,7 +12,7 @@
 - Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
 - Designed and developed [DSC PVGCOET Portal](https://dscpvgcoet.github.io/)
 - Authored and created [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
- <p style="font-family:Averta">font testing</p>
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
 [![Yatish's Github Stats](https://github-readme-stats.vercel.app/api?username=yatish1606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
