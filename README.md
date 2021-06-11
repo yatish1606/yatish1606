@@ -1,6 +1,6 @@
 ### Hey 👋🏽
 
-- Currently in my Third Year of Engineering (IT)
+- Currently in my Third Year of Engineering (IT) and interning as an Angular Developer
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
 - UI-UX Expert at Google's Developer Student Clubs PVG's COET
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
