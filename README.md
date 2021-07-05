@@ -1,11 +1,11 @@
 ### Hey 👋🏽
 
 - Currently in my Third Year of Engineering (IT) and interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
+- Check out my research on Blockchain published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
 - UI-UX Expert at Google's Developer Student Clubs PVG's COET
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
-- Check out my research on Blockchain published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
 - Currently learning Angular and Typescript 🚀
 - Co-developed [LearnSpace](http://dbms-front.herokuapp.com/registerlogin), an online interactive classroom
