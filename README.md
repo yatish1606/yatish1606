@@ -14,6 +14,11 @@
 - Currently learning Angular and Typescript 🚀
 - Contact me by [mail](mailto:yatish1606@gmail.com)
 
+ <span>&nbsp;&nbsp;  <img src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="35px"/>  &nbsp; <img src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="dribbble" width="35px"/>
+ </span>
+
+
+
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
