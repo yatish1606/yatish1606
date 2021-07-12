@@ -1,6 +1,6 @@
 ### Hey 👋🏽
 
-- Currently in my final Year of IT Engineering (IT) 
+- Currently in my final Year of IT Engineering
 - Interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
 - Research fellow at [Muellners](https://github.com/muellners)
