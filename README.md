@@ -3,7 +3,7 @@
 - Currently in my final Year of IT Engineering
 - Interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
-- Research fellow at [Muellners](https://github.com/muellners)
+- Research fellow at [@muellners](https://github.com/muellners)
 - Check out my research article on blockchain basics published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
 - UI-UX Expert at Google's Developer Student Clubs PVG's COET
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
