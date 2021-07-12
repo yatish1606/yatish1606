@@ -1,8 +1,10 @@
 ### Hey 👋🏽
 
-- Currently in my Third Year of Engineering (IT) and interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
-- Check out my research on Blockchain published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
+- Currently in my final Year of IT Engineering (IT) 
+- Interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
+- Research fellow at [Muellners](https://github.com/muellners)
+- Check out my research article on blockchain basics published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
 - UI-UX Expert at Google's Developer Student Clubs PVG's COET
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
@@ -13,9 +15,10 @@
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
 - Currently learning Angular and Typescript 🚀
 - Contact me by [mail](mailto:yatish1606@gmail.com)
+- Check out my design work on [<span style="color: #OOOOFF">Dribbble</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="25px"/>](https://dribbble.com/Yatish1606) and my profile on [<span style="color: #OOOOFF">LinkedIn</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="linkedin" width="25px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
 
- <span>&nbsp;&nbsp;  [<img src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="35px"/>](https://dribbble.com/Yatish1606)  &nbsp; [<img src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="dribbble" width="35px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
- </span>
+ <!-- <span>&nbsp;&nbsp;  [<img src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="35px"/>](https://dribbble.com/Yatish1606)  &nbsp; [<img src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="dribbble" width="35px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
+ </span> -->
 
 
 
