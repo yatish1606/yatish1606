@@ -2,10 +2,11 @@
 
 - Currently in my final Year of IT Engineering
 - Interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
+- General Secretary [@itsapvg](https://itsa-pvg.github.io/website2021/)
+- Web Expert at Google's Developer Student Clubs PVG's COET
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
 - Research fellow at [@muellners](https://github.com/muellners)
 - Check out my research article on blockchain basics published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
-- Web Expert at Google's Developer Student Clubs PVG's COET
 - Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
 - Authored and published [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
