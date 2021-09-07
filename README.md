@@ -3,7 +3,7 @@
 - Currently in my final Year of IT Engineering
 - Interning as an Angular Developer [@Bmore IT LLP](https://bmoreits.com/)
 - General Secretary [@itsapvg](https://itsa-pvg.github.io/website2021/)
-- Web Expert at Google's Developer Student Clubs PVG's COET
+- Web Expert at Google's Developer Student Club [@gdscpvgcoet](https://gdscpvgcoet.in/#/)
 - Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
 - Research fellow at [@muellners](https://github.com/muellners)
 - Check out my research article on blockchain basics published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
@@ -11,8 +11,6 @@
 - Interned at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
 - Authored and published [`react-accordion-collapsible`](https://www.npmjs.com/package/react-accordion-collapsible) on npm
 - Co-developed [LearnSpace](http://dbms-front.herokuapp.com/registerlogin), an online interactive classroom
-- Designed and developed [ITSA Website](https://itsa-pvg.github.io/website2021/)
-- Designed and developed [DSC PVGCOET Portal](https://dscpvgcoet.github.io/)
 - Experienced with React, C++, Node.js, Product design, ReactNative, and UX
 - Currently learning Angular and Typescript 🚀
 - Contact me by [mail](mailto:yatish1606@gmail.com)
