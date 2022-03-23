@@ -2,13 +2,10 @@
 
 - General Secretary [@itsapvg](https://itsa-pvg.github.io/website2021/) and Web Expert at Google's Developer Student Club [@gdscpvgcoet](https://gdscpvgcoet.in/#/)
 - Co-creator of [@enTWEAK](https://www.instagram.com/entweak/)
-- Currently interning as a Software Developer [@Bmore IT LLP](https://bmoreits.com/)
-- Find out more about me and my portfolio [here](https://yatishkelkar.netlify.app/)
+- SDE and designer [@Bmore IT LLP](https://bmoreits.com/)
+- [Developer and Designer portfolio](https://yatishkelkar.netlify.app/)
 - Research fellow at [@muellners](https://github.com/muellners)
-- Check out my research article on blockchain basics published at [muellners.org](https://research.muellners.org/indepth-overview-of-blockchain/)
-- Interned at [@Mavoix](https://www.mavoix.in/) as a React Native Developer and at [@FortyTwoLabs](https://www.fortytwolabs.com/) as a product designer
-- Co-developed [LearnSpace](http://dbms-front.herokuapp.com/registerlogin), an online interactive classroom
-- React, C++, Node.js, Product design, ReactNative, Angular, Typescript and UX
+- Previously React Native dev [@Mavoix](https://www.mavoix.in/) and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
 - Contact me by [mail](mailto:yatish1606@gmail.com)
 - Check out my design work on [<span style="color: #OOOOFF">Dribbble</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="25px"/>](https://dribbble.com/Yatish1606) and my profile on [<span style="color: #OOOOFF">LinkedIn</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="linkedin" width="25px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
 
