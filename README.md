@@ -1,8 +1,8 @@
 ### Hey 👋🏽
-
-- General Secretary [@itsapvg](https://itsa-pvg.github.io/website2021/) and Web Expert at Google's Developer Student Club [@gdscpvgcoet](https://gdscpvgcoet.in/#/)
+- Currently SDE [@Persistent](https://www.persistent.com/)
+- Formerly General Secretary [@itsapvg](https://itsa-pvg.github.io/website2021/) and Web Expert at Google's Developer Student Club [@gdscpvgcoet](https://gdscpvgcoet.in/#/)
 - Co-creator of [@enTWEAK](https://www.instagram.com/entweak/)
-- SDE and designer [@Bmore IT LLP](https://bmoreits.com/)
+- Previously SDE and designer [@Bmore IT LLP](https://bmoreits.com/)
 - [Developer and Designer portfolio](https://yatishkelkar.netlify.app/)
 - Research fellow at [@muellners](https://github.com/muellners)
 - Previously React Native dev [@Mavoix](https://www.mavoix.in/) and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
