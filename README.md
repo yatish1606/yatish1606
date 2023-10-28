@@ -1,19 +1,17 @@
 ### Hey 👋🏽
-- Currently SDE [@Persistent](https://www.persistent.com/)
-- Co-creator of [@enTWEAK](https://www.instagram.com/entweak/)
-- Previously SDE and designer [@Bmore IT LLP](https://bmoreits.com/)
+- SDE [@Persistent](https://www.persistent.com/)
+- Full-stack developer, specialising in UI and Visual design
+- Co-creator [@enTWEAK](https://www.instagram.com/entweak/)
+- Previously SDE and designer [@Bmore IT LLP](https://bmoreits.com/), React Native dev [@Mavoix](https://www.mavoix.in/) and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
 - [Developer and Designer portfolio](https://yatishkelkar.netlify.app/)
-- Previously React Native dev [@Mavoix](https://www.mavoix.in/) and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
 - Contact me by [mail](mailto:yatish1606@gmail.com)
-- Check out my design work on [<span style="color: #OOOOFF">Dribbble</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="25px"/>](https://dribbble.com/Yatish1606) and my profile on [<span style="color: #OOOOFF">LinkedIn</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="linkedin" width="25px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
-
- <!-- <span>&nbsp;&nbsp;  [<img src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="35px"/>](https://dribbble.com/Yatish1606)  &nbsp; [<img src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="dribbble" width="35px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
- </span> -->
+- My design work is available on [<span style="color: #OOOOFF">Dribbble</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="25px"/>](https://dribbble.com/Yatish1606)
+- [<span style="color: #OOOOFF">LinkedIn profile</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="linkedin" width="25px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
 
 
 
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatish1606&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats) -->
 
 <!-- [![Yatish's Github Stats](https://github-readme-stats.vercel.app/api?username=yatish1606&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
