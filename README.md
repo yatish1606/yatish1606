@@ -1,9 +1,8 @@
 ### Hey 👋🏽
-- Senior SDE [@Persistent](https://www.persistent.com/)
+- SDE 2 at [Morgan Stanley](https://www.morganstanley.com/)
 - Full-stack developer, specialising in UI and Visual design
-- Co-creator [@enTWEAK](https://www.instagram.com/entweak/)
-- Previously SDE and designer [@Bmore IT LLP](https://bmoreits.com/), React Native dev [@Mavoix](https://www.mavoix.in/) and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
-- [Developer and Designer portfolio](https://yatish-dev.netlify.app/)
+- Previously Senior Software Engineer [@Persistent](https://persistent.com), SDE and designer [@Bmore IT LLP](https://bmoreits.com/), and Product Designer [@FortyTwoLabs](https://www.fortytwolabs.com/)
+- [Developer and Designer portfolio](https://yatish.netlify.app/)
 - Contact me by [mail](mailto:yatish1606@gmail.com)
 - My design work is available on [<span style="color: #OOOOFF">Dribbble</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/dribbble.png" alt="dribbble" width="25px"/>](https://dribbble.com/Yatish1606)
 - [<span style="color: #OOOOFF">LinkedIn profile</span> <img align=top src="https://github.com/yatish1606/yatish1606/blob/master/linkedin.png" alt="linkedin" width="25px"/>](https://www.linkedin.com/in/yatish-kelkar-850507190/)
